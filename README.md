@@ -1,6 +1,5 @@
-# Formulario_html
-
-// Fazer um formulário de cadastro em HTML contendo as seguintes informações:
+# Formulario em html
+ Fazer um formulário de cadastro em HTML contendo as seguintes informações:
 
  Primeiro Nome; Segundo Nome;
  CPF; RG;
